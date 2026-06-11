@@ -21,7 +21,7 @@ Fine-tune model
 Final confusion matrix after fine-tuning
 Save model and JSON files
 
-varun kumar sharma-Evaluation and Confusion Matrix
+varun kumar sharma(AD25B1039)-Evaluation and Confusion Matrix
 Predict validation images
 Generate confusion matrix
 Plot confusion matrix
